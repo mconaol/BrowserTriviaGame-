@@ -1,0 +1,50 @@
+.navBar {
+    background-color: blue;
+    text-align: center ;
+    margin: 10px;
+    width: 100%;
+    display:inline-flex;
+    flex-direction: row;
+
+}
+
+
+#TriviaSelection {
+    background-color: aqua;
+    max-width: 400px;
+    margin-bottom: 20px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#TriviaSelection ul {
+    background-color: white;
+    margin: 0; 
+    list-style-type: disc;
+    margin-block-start: 1em; 
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+#TriviaSelection li {
+    border: 1px solid black; 
+    background-color: pink;
+    list-style-type: none;
+    width:30%; 
+    display: inline-block;
+    margin: 0px; 
+    margin-bottom: 10px;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+}
+#TriviaSelection h1 {
+    display: center;
+    text-align: center;
+}
+div {
+    display: block;
+}
+
